@@ -14,9 +14,10 @@ You can clone this project: **git clone https://github.com/sergiomauz/Relational
 
 ## Built With
 
-* [MySQL Workbench CE](https://code.visualstudio.com/) - For designing the relational model
-* [Microsoft SQL Server Management Studio](https://dotnet.microsoft.com/download/dotnet-core) - A Microsoft IDE for SQL Server
-* Inspiration ;)
+* [MySQL Workbench CE](https://www.mysql.com/products/workbench/) - For designing the relational model
+* [Microsof SQL Server Express](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) - A Microsoft DBMS
+* [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - A Microsoft IDE for SQL Server
+* Until the last commit :)
 
 ## Author
 
